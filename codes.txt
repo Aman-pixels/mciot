@@ -1,0 +1,15 @@
+7segment.asm
+256bytes.asm
+addition.asm
+analogtodigital.c
+buzzer.c
+extractionandclearing.asm
+factorial.asm
+fibonnaci.asm
+ledblink.asm
+ledblink.py
+rgb.asm
+rotateandshift.asm
+substraction.asm
+swap.asm
+transfer.asm
